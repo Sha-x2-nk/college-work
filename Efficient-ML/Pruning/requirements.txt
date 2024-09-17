@@ -1,0 +1,5 @@
+# JAX -> follow the install instructions from off website, download the accelarated version depending on your hardware.
+numpy
+flax
+optax
+plotly
